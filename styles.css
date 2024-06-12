@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+}
+
+header {
+    background-color: #ffffff;
+    border-bottom: 1px solid #dee2e6;
+}
+
+.logo {
+    width: 50px;
+}
+
+.btn-grey {
+    background-color: #6c757d;
+    color: #fff;
+}
+
+.btn-grey:hover {
+    background-color: #5a6268;
+}
+
+.card-title {
+    font-size: 1.25rem;
+    font-weight: bold;
+}
+
+.card-text {
+    font-size: 0.875rem;
+    color: #6c757d;
+}
+
+.nav-link {
+    font-size: 1rem;
+    color: #333;
+}
+
+.nav-link.active {
+    font-weight: bold;
+    color: #f15a24;
+}
+
+.upload-box {
+    background-color: #f8f9fa;
+    border: 2px dashed #ced4da;
+    text-align: center;
+    padding: 20px;
+}
+
+.upload-box a {
+    color: #f15a24;
+    font-weight: bold;
+}
+
+.upload-box .text-muted {
+    font-size: 0.875rem;
+}
+
+.btn {
+    text-align: center;
+}
